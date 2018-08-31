@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "lebricabrac final",
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -180,7 +180,7 @@
     },
     "page1.html": {
       "settings": {
-        "title": "qui sommes nous ?",
+        "title": "Le BricaBrac",
         "order": 1
       },
       "components": [
@@ -309,7 +309,7 @@
     },
     "page2.html": {
       "settings": {
-        "title": "comment ça ",
+        "title": "Le BricaBrac",
         "order": 2
       },
       "components": [
@@ -418,7 +418,7 @@
     },
     "page3.html": {
       "settings": {
-        "title": "inscrivez vous",
+        "title": "Le BricaBrac",
         "order": 3
       },
       "components": [
@@ -552,7 +552,7 @@
     },
     "page4.html": {
       "settings": {
-        "title": "Publier",
+        "title": "Le BricaBrac",
         "order": 4
       },
       "components": [
@@ -694,7 +694,7 @@
     },
     "page5.html": {
       "settings": {
-        "title": "Ma publicité",
+        "title": "Le BricaBrac",
         "order": 5
       },
       "components": [
@@ -718,7 +718,7 @@
           "header": "Nos Graphistes",
           "items": [
             {
-              "authorName": "BEHANZIN Claudel<br>+229 96 96 70 93<br>behanzinhelios2017@gmail.com",
+              "authorName": "BEHANZIN Claudel<br>+229 94 56 96 00<br>behanzinhelios2017@gmail.com",
               "authorBio": "",
               "text": "<em>&nbsp;Adobe Photoshop/webdesign/adobe after effect/ communication Marketing/ Digital Marketing/ Founder &amp; CEO de LeBricaBrac / Founder &amp; CEO d'HeliosDigits / CEO à Fleur de Jade</em>"
             },
@@ -854,7 +854,7 @@
     },
     "page6.html": {
       "settings": {
-        "title": "Nos publicités",
+        "title": "Le BricaBrac",
         "order": 6
       },
       "components": [
@@ -1035,7 +1035,7 @@
     },
     "page7.html": {
       "settings": {
-        "title": "partagez et commenter",
+        "title": "Le BricaBrac",
         "order": 7
       },
       "components": [
