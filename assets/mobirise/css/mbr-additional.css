@@ -23,6 +23,7 @@
 #header4-2 B {
   font-family: 'Indie Flower', cursive;
   font-size: 80px;
+  color: #000000;
 }
 #header4-2 H1 {
   text-align: center;
@@ -33,6 +34,7 @@
 #header4-2 P {
   color: #0275d8;
   font-family: 'Indie Flower', cursive;
+  text-align: center;
 }
 #header4-2 I {
   font-size: 32px;

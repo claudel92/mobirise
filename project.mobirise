@@ -101,9 +101,9 @@
             "showText": true,
             "showButtons": true,
             "showArrow": true,
-            "contentAlign": "center",
+            "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-872958-2000x1224.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -128,7 +128,8 @@
             "B": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "80px"
+              "font-size": "80px",
+              "color": "#000000"
             },
             "H1": {
               "text-align": "center"
@@ -140,7 +141,8 @@
             "P": {
               "color": "#0275d8",
               "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "text-align": "center"
             },
             "I": {
               "font-size": "32px",
@@ -739,7 +741,7 @@
           "_anchor": "testimonials1-1g",
           "testimonial": [
             {
-              "authorName": "BEHANZIN Claudel<br>+229 96 96 70 93<br>behanzinhelios2017@gmail.com",
+              "authorName": "BEHANZIN Claudel<br>+229 94 56 96 00<br>behanzinhelios2017@gmail.com",
               "authorBio": "",
               "text": "<em>&nbsp;Adobe Photoshop/webdesign/adobe after effect/ communication Marketing/ Digital Marketing/ Founder &amp; CEO de LeBricaBrac / Founder &amp; CEO d'HeliosDigits / CEO à Fleur de Jade</em>"
             },
@@ -840,7 +842,7 @@
           "_anchor": "footer1-14"
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">contacter<br>BEHANZIN Claudel<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"tel:+229 94 93 20 61\" data-toolbar=\"-mbrBtnMove\">contacter<br>Cedrick Joel<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"tel:+233 54 024 8561\" data-toolbar=\"-mbrBtnMove\">contacter<br>ADEKPEDJOU ABDEL<br></a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:+229 94 56 96 00\" data-toolbar=\"-mbrBtnMove\">contacter<br>BEHANZIN Claudel<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"tel:+229 94 93 20 61\" data-toolbar=\"-mbrBtnMove\">contacter<br>Cedrick Joel<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"tel:+233 54 024 8561\" data-toolbar=\"-mbrBtnMove\">contacter<br>ADEKPEDJOU ABDEL<br></a> ",
           "alias": "purity/components",
           "_tags": [
             "Thème"
