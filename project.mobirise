@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "lebricabrac final",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -585,7 +585,7 @@
             "fields": {
               "email": {
                 "title": "Email",
-                "customTitle": "Enter Your Email Address..."
+                "customTitle": "Entrez votre adresse e-mail"
               }
             }
           },
