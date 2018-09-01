@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "lebricabrac final",
-    "currentPage": "page6.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -787,7 +787,7 @@
                 "customTitle": "Secteur d'activité"
               },
               "email": {
-                "visible": true,
+                "visible": false,
                 "title": "Email",
                 "customTitle": "Intitulé de votre publicité"
               },
@@ -864,45 +864,6 @@
               "text-align": "center"
             }
           }
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#37383e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "images/footer-logo.png",
-              "width": 265
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "responsive",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0,
-              "color": "#5bc0de",
-              "active": true
-            }
-          },
-          "text1": "<i><b>Address</b></i><br>AB-Calavi<br>02BP 332",
-          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:lebricabrac017@gmail.com\">Lebricabrac@gmail.com</a><br>\nPhone: +229 94 56 96 00<br><br>",
-          "text3": "<ul></ul>",
-          "alias": "purity/components",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-1l"
         }
       ]
     },
