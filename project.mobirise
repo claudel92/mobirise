@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "lebricabrac final",
-    "currentPage": "page7.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -21,7 +21,7 @@
     "cookiesAlert": "",
     "gdpr": "",
     "sitemapSwitcher": "on",
-    "uniqCompNum": 56,
+    "uniqCompNum": 75,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
   },
@@ -103,7 +103,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-205316-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -163,13 +163,13 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2015 &nbsp;Le BricaBrac. <a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "text": "<a href=\"page8.html#content5-1u\">Copyright (c) 2018 LeBricBrac.&nbsp;Terms of Use  | Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-c",
+          "_anchor": "footer1-1v",
           "_styles": {
             "P": {
               "text-align": "center"
@@ -244,6 +244,45 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.9"
+          },
+          "title": "Qui sommes nous &nbsp;?&nbsp;",
+          "caption": "<p>Le BricaBrac est un site web qui vous fait découvrir des affiches publicitaires made in Bénin pouvant vous intéresser. Vous êtes à la receherche d'un service , d'un article ou d'un produit ? nous vous proposons une vaste gamme de publicité correspondant à vos critères. Il vous suffit de vous inscrire et d'ensuite consulter l'ensemble de nos publicités de la semaine.</p><p>vous proposez un service ou vendez un produit ? Le BricaBrac vous donne la possibilité de vous faire connaitre en important directement vos affiches publicitaires &nbsp;sur notre site afin qu'elles puissent être vues par l'ensemble de nos visiteurs.</p><p>Vous désirez vous faire connaitre mais n'avez pas d'affiches publicitaires, le BricaBrac met aussi à votre disposition des graphistes qualifiés. Il suffit juste de cliquer sur l'onglet \" Ma publicité\" et d'entrer en contact avec le graphiste de votre choix.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "content5",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#5bc0de"
+            },
+            "P": {
+              "font-size": "30px",
+              "color": "#5bc0de"
+            }
+          },
+          "_anchor": "content5-x"
+        },
+        {
+          "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -255,55 +294,57 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2015 &nbsp;Le BricaBrac. <a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "text": "<a href=\"page8.html#content5-1u\">Copyright (c) 2018 LeBricBrac.&nbsp;Terms of Use  | Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
           "_name": "footer1",
+          "_anchor": "footer1-1v",
           "_styles": {
             "P": {
               "text-align": "center"
             }
-          },
-          "_anchor": "footer1-u"
+          }
         },
         {
           "_params": {
-            "showTitle": true,
-            "showCaption": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
             "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.7
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
-          "title": "Qui sommes nous &nbsp;?&nbsp;",
-          "caption": "<p>Le BricaBrac est un site web qui vous fait découvrir des affiches publicitaires made in Bénin pouvant vous intéresser. Vous êtes à la receherche d'un service , d'un article ou d'un produit ? nous vous proposons une vaste gamme de publicité correspondant à vos critères. Il vous suffit juste de vous inscrire et d'ensuite rechercher ce que vous désirez.</p><p>vous proposez un service ou vendez un produit ? Le BricaBrac vous donne la possibilité de vous faire connaitre en important directement vos affiches publicitaires &nbsp;sur notre site afin qu'elles puissent etre vues par l'ensemble de nos visiteurs. Il suffit de vous inscrire et d'ensuite importer vos affiches.</p><p>Vous désirez vous faire connaitre mais n'avez pas d'affiches publicitaires, le BricaBrac met aussi à votre disposition des graphistes qualifiés. Il suffit juste de cliquer sur l'onglet \" Ma publicité\" et de vous laisser guider.</p>",
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "width": 265
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "responsive",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "color": "#5bc0de",
+              "active": true
+            }
+          },
+          "text1": "<i><b>Address</b></i><br>AB-Calavi<br>02BP 332",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:lebricabrac017@gmail.com\">Lebricabrac@gmail.com</a><br>\nPhone: +229 94 56 96 00<br><br>",
+          "text3": "<ul></ul>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
-          "_name": "content5",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            "P": {
-              "font-size": "30px"
-            }
-          },
-          "_anchor": "content5-x"
+          "_name": "contacts1",
+          "_anchor": "contacts1-1y"
         }
       ]
     },
@@ -372,6 +413,24 @@
           "_anchor": "ext_menu-v"
         },
         {
+          "text": "<p><b><i>Comment ça marche ?</i></b></p><p><i>* Inscrivez vous en entrant les informations nécéssaires pour commencer.</i></p><p><i>*vous désirez consulter nos publicités ?, &nbsp;il vous suffit juste de cliquer sur le boutton \" Nos publicités\".</i></p><p><i>* si vous souhaitez publier une publicité , cliquer sur le bouton \" publier \" et laisser vous guider.</i></p><p><i>*si vous désirez bénéficier des services de nos graphistes chevronnés pour des conceptions d'affiches publicitaires, cliquer sur \" Ma publicité\" et laisser vous guider.</i></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "25px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "center",
+              "color": "#5bc0de"
+            }
+          },
+          "_anchor": "content1-1k"
+        },
+        {
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -384,35 +443,57 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2015 &nbsp;Le BricaBrac. <a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "text": "<a href=\"page8.html#content5-1u\">Copyright (c) 2018 LeBricBrac.&nbsp;Terms of Use  | Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
           "_name": "footer1",
+          "_anchor": "footer1-1v",
           "_styles": {
             "P": {
               "text-align": "center"
             }
-          },
-          "_anchor": "footer1-w"
+          }
         },
         {
-          "text": "<p><b><i>Comment ça marche ?</i></b></p><p>* Inscrivez vous en entrant les informations nécéssaires pour commencer.</p><p>* SI vous êtes à la recherche d'un article, il vous suffit d'entrer dans la barre de recherche les mots clés correspondant à votre article.</p><p>* si vous désirez publier une publicité , cliquer sur le bouton \" publier \" et laisser vous guider.</p><p>*si vous désirez bénéficier des services de nos graphistes chevronnés pour des conceptions d'affiches publicitaires, cliquer sur \" Ma publicité\" et laisser vous guider.</p>",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "width": 265
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "responsive",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "color": "#5bc0de",
+              "active": true
+            }
+          },
+          "text1": "<i><b>Address</b></i><br>AB-Calavi<br>02BP 332",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:lebricabrac017@gmail.com\">Lebricabrac@gmail.com</a><br>\nPhone: +229 94 56 96 00<br><br>",
+          "text3": "<ul></ul>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "22px",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-y"
+          "_name": "contacts1",
+          "_anchor": "contacts1-1l"
         }
       ]
     },
@@ -482,32 +563,6 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#26272c",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2015 &nbsp;Le BricaBrac. <a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "footer1-10"
-        },
-        {
-          "_params": {
             "showTitle": true,
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -547,6 +602,96 @@
             }
           },
           "_anchor": "form2-19"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "Partagez cette page",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-1m"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "width": 265
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "responsive",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "color": "#5bc0de",
+              "active": true
+            }
+          },
+          "text1": "<i><b>Address</b></i><br>AB-Calavi<br>02BP 332",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:lebricabrac017@gmail.com\">Lebricabrac@gmail.com</a><br>\nPhone: +229 94 56 96 00<br><br>",
+          "text3": "<ul></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1l"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<a href=\"page8.html#content5-1u\">Copyright (c) 2018 LeBricBrac.&nbsp;Terms of Use  | Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1v",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     },
@@ -616,6 +761,86 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Publier",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Publier</a>",
+          "form": {
+            "action": "lebricabrac017@gmail.com",
+            "alerts": {
+              "success": "Veuillez nous envoyer votre affiche publicitaire à cette adresse : lebricabrac017@gmail.com\n"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Secteur d'activité"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Intitulé de votre publicité"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Contact"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Description du conteu"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-1a",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "Partagez cette page",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-1n"
+        },
+        {
+          "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -627,68 +852,57 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2015 &nbsp;Le BricaBrac. <a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "text": "<a href=\"page8.html#content5-1u\">Copyright (c) 2018 LeBricBrac.&nbsp;Terms of Use  | Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
           "_name": "footer1",
+          "_anchor": "footer1-1v",
           "_styles": {
             "P": {
               "text-align": "center"
             }
-          },
-          "_anchor": "footer1-12"
+          }
         },
         {
           "_params": {
-            "showTitle": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
-          "title": "Publier",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Publier</a>",
-          "form": {
-            "action": "behanzinhelios2017@gmail.com",
-            "alerts": {
-              "success": "Le Bricabrac vous remercie d'avoir rempli ce formulaire ."
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "width": 265
             },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "domaine"
-              },
-              "email": {
-                "visible": false,
-                "title": "Email",
-                "customTitle": ""
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "contact"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "description"
-              }
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "responsive",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "color": "#5bc0de",
+              "active": true
             }
           },
+          "text1": "<i><b>Address</b></i><br>AB-Calavi<br>02BP 332",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:lebricabrac017@gmail.com\">Lebricabrac@gmail.com</a><br>\nPhone: +229 94 56 96 00<br><br>",
+          "text3": "<ul></ul>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
-          "_name": "form1",
-          "_anchor": "form1-1a"
+          "_name": "contacts1",
+          "_anchor": "contacts1-1l"
         }
       ]
     },
@@ -816,6 +1030,54 @@
           "_anchor": "ext_menu-13"
         },
         {
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:+229 94 56 96 00\" data-toolbar=\"-mbrBtnMove\">contacter<br>BEHANZIN Claudel<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"tel:+229 94 93 20 61\" data-toolbar=\"-mbrBtnMove\">contacter<br>Cedrick Joel<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"tel:+233 54 024 8561\" data-toolbar=\"-mbrBtnMove\">contacter<br>ADEKPEDJOU ABDEL<br></a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1e"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "width": 265
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "responsive",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "color": "#5bc0de",
+              "active": true
+            }
+          },
+          "text1": "<i><b>Address</b></i><br>AB-Calavi<br>02BP 332",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:lebricabrac017@gmail.com\">Lebricabrac@gmail.com</a><br>\nPhone: +229 94 56 96 00<br><br>",
+          "text3": "<ul></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1l"
+        },
+        {
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -828,27 +1090,18 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2015 &nbsp;Le BricaBrac. <a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "text": "<a href=\"page8.html#content5-1u\">Copyright (c) 2018 LeBricBrac.&nbsp;Terms of Use  | Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
           "_name": "footer1",
+          "_anchor": "footer1-1v",
           "_styles": {
             "P": {
               "text-align": "center"
             }
-          },
-          "_anchor": "footer1-14"
-        },
-        {
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:+229 94 56 96 00\" data-toolbar=\"-mbrBtnMove\">contacter<br>BEHANZIN Claudel<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"tel:+229 94 93 20 61\" data-toolbar=\"-mbrBtnMove\">contacter<br>Cedrick Joel<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"tel:+233 54 024 8561\" data-toolbar=\"-mbrBtnMove\">contacter<br>ADEKPEDJOU ABDEL<br></a> ",
-          "alias": "purity/components",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-1e"
+          }
         }
       ]
     },
@@ -858,6 +1111,43 @@
         "order": 6
       },
       "components": [
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b><i><a href=\"page6.html#gallery2-20\">Nos Publicités</a></i></b>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Nos Publicités</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-22",
+          "_styles": {
+            "H2": {
+              "text-align": "right"
+            }
+          }
+        },
         {
           "_inherit": "menu",
           "_params": {
@@ -917,6 +1207,111 @@
           "_anchor": "ext_menu-15"
         },
         {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-3-small.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/commande-648x790.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/commande-648x790-648x790.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/justbreakit-1000x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/justbreakit-1000x1000-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-7.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-7-small.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-8.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-8-small.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-11.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-11-small.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-12.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-12-small.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-13.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-13-small.jpg",
+                "alt": "",
+                "title": ""
+              }
+            ]
+          },
+          "articleLayout": true,
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-20"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "width": 265
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "responsive",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "color": "#5bc0de",
+              "active": true
+            }
+          },
+          "text1": "<i><b>Address</b></i><br>AB-Calavi<br>02BP 332",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:lebricabrac017@gmail.com\">Lebricabrac@gmail.com</a><br>\nPhone: +229 94 56 96 00<br><br>",
+          "text3": "<ul></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1l"
+        },
+        {
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -929,107 +1324,18 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2015 &nbsp;Le BricaBrac. <a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "text": "<a href=\"page8.html#content5-1u\">Copyright (c) 2018 LeBricBrac.&nbsp;Terms of Use  | Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
           "_name": "footer1",
+          "_anchor": "footer1-1v",
           "_styles": {
             "P": {
               "text-align": "center"
             }
-          },
-          "_anchor": "footer1-16"
-        },
-        {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_params": {
-            "autoplay": true,
-            "fullScreen": false,
-            "paddingTop": "3",
-            "paddingBottom": "1",
-            "showBullets": true,
-            "bgColor": "#000000",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-6.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "title": "Nos publicités !",
-                "contentAlign": "center",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
-                "overlay": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/commande-648x790.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 2",
-                "contentAlign": "left",
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/justbreakit-1000x1000.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 3",
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/pub-2-757x979.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 1",
-                "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-9.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 2",
-                "contentAlign": "left",
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
-                "overlay": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-9.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 2",
-                "contentAlign": "left",
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
-                "overlay": false
-              }
-            ]
-          },
-          "articleLayout": false,
-          "alias": "purity/components",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "slider",
-          "_anchor": "slider-1d"
+          }
         }
       ]
     },
@@ -1164,32 +1470,6 @@
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#26272c",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2015 &nbsp;Le BricaBrac. <a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "footer1-18"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
             "overlay": false,
             "overlayColor": "#222",
@@ -1206,6 +1486,135 @@
           ],
           "_name": "social-buttons1",
           "_anchor": "social-buttons1-1f"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<a href=\"page8.html#content5-1u\">Copyright (c) 2018 LeBricBrac.&nbsp;Terms of Use  | Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1v",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "title": "LeBricaBrac",
+        "order": 8
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page3.html#form2-19\">s'inscrire</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page5.html#testimonials1-1g\">Ma publicité</a></li>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html#content5-x\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(2, 117, 216);\"></span>Qui sommes nous ?</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(92, 184, 92);\"></span>&nbsp; Comment ça marche ?</a></li>",
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "responsive",
+              "family": "MobiriseIcons",
+              "link": "index.html#header4-2",
+              "size": 0,
+              "color": "#5bc0de",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-success\" data-app-btn=\"true\" href=\"index.html#header4-2\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LeBricaBrac</a>",
+          "_name": "ext.menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".navbar-brand": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "23px"
+            },
+            ".nav-link": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            ".nav-link SPAN": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "ext_menu-1p"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Privacy Policy",
+          "caption": "<b>leBricaBrac\n</b><div>Privacy Policy of claudel92.github.io/</div><div>Effective date: September 01, 2018</div><div><br></div><div>\n</div><div>\n</div><div>leBricaBrac (\"us\", \"we\", or \"our\") operates the claudel92.github.io/ website (the \"Service\").\n</div><div>\n</div><div>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. This Privacy Policy for leBricaBrac is powered by FreePrivacyPolicy.com.\n</div><div>\n</div><div>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from claudel92.github.io/\n</div><div>\n</div><div>Information Collection And Use\n</div><div>We collect several different types of information for various purposes to provide and improve our Service to you.\n</div><div>\n</div><div>Types of Data Collected\n</div><div><b>Personal Data\n</b></div><div>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (\"Personal Data\"). Personally identifiable information may include, but is not limited to:\n</div><div>\n</div><div><b>Email address\n</b></div><div>First name and last name\n</div><div><b>Phone number\n</b></div><div>Cookies and Usage Data\n</div><div><b>Usage Data\n</b></div><div>We may also collect information how the Service is accessed and used (\"Usage Data\"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.\n</div><div>\n</div><div><b>Tracking &amp; Cookies Data\n</b></div><div>We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.\n</div><div>\n</div><div>Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.\n</div><div>\n</div><div>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.\n</div><div>\n</div><div><b>Examples of Cookies we use:\n</b></div><div>\n</div><div>Session Cookies. We use Session Cookies to operate our Service.\n</div><div>Preference Cookies. We use Preference Cookies to remember your preferences and various settings.\n</div><div>Security Cookies. We use Security Cookies for security purposes.\n</div><div><b>Use of Data\n</b></div><div>leBricaBrac uses the collected data for various purposes:\n</div><div>\n</div><div>To provide and maintain the Service\n</div><div>To notify you about changes to our Service\n</div><div>To allow you to participate in interactive features of our Service when you choose to do so\n</div><div>To provide customer care and support\n</div><div>To provide analysis or valuable information so that we can improve the Service\n</div><div>To monitor the usage of the Service\n</div><div>To detect, prevent and address technical issues\n</div><div><b>Transfer Of Data\n</b></div><div>Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.\n</div><div>\n</div><div>If you are located outside Benin and choose to provide information to us, please note that we transfer the data, including Personal Data, to Benin and process it there.\n</div><div>\n</div><div>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.\n</div><div>\n</div><div>leBricaBrac will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.\n</div><div>\n</div><div>Disclosure Of Data\n</div><div><b>Legal Requirements\n</b></div><div>leBricaBrac may disclose your Personal Data in the good faith belief that such action is necessary to:\n</div><div>\n</div><div>To comply with a legal obligation\n</div><div>To protect and defend the rights or property of leBricaBrac\n</div><div>To prevent or investigate possible wrongdoing in connection with the Service\n</div><div>To protect the personal safety of users of the Service or the public\n</div><div>To protect against legal liability\n</div><div><b>Security Of Data\n</b></div><div>The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.\n</div><div>\n</div><div>Service Providers\n</div><div>We may employ third party companies and individuals to facilitate our Service (\"Service Providers\"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.\n</div><div>\n</div><div>These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.\n</div><div>\n</div><div><b>Links To Other Sites\n</b></div><div>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.\n</div><div>\n</div><div>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.\n</div><div>\n</div><div><b>Children's Privacy\n</b></div><div>Our Service does not address anyone under the age of 18 (\"Children\").\n</div><div>\n</div><div>We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.\n</div><div>\n</div><div><b>Changes To This Privacy Policy\n</b></div><div>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.\n</div><div>\n</div><div>We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the \"effective date\" at the top of this Privacy Policy.\n</div><div>\n</div><div>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.\n</div><div>\n</div><div><b>Contact Us\n</b></div><div>If you have any questions about this Privacy Policy, please contact us:\n</div><div>\n</div><div>By email: lebricabrac017@gmail.com\n</div><div>By visiting this page on our website: https://claudel92.github.io/mobirise/page7.html#form1-1h\n</div><div>By phone number: +229 94 56 96 00</div>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "content5",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "P": {
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "content5-1u"
         },
         {
           "_params": {
@@ -1237,14 +1646,40 @@
             }
           },
           "text1": "<i><b>Address</b></i><br>AB-Calavi<br>02BP 332",
-          "text2": "<strong>Contacts</strong><br>\nEmail: Lebricabrac@gmail.com<br>\nPhone: +229 96 96 70 93<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:lebricabrac017@gmail.com\">Lebricabrac@gmail.com</a><br>\nPhone: +229 94 56 96 00<br><br>",
           "text3": "<ul></ul>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-1j"
+          "_anchor": "contacts1-1s"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<a href=\"page8.html#content5-1u\">Copyright (c) 2018 LeBricBrac.&nbsp;Terms of Use  | Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1v",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     }

@@ -40,7 +40,7 @@
   font-size: 25px;
   color: #000000;
 }
-#footer1-c P {
+#footer1-1v P {
   text-align: center;
 }
 
@@ -59,14 +59,16 @@
 #ext_menu-t .nav-link SPAN {
   font-size: 18px;
 }
-#footer1-u P {
-  text-align: center;
-}
 #content5-x .mbr-section-title {
   font-family: 'Oxygen', sans-serif;
+  color: #5bc0de;
 }
 #content5-x P {
   font-size: 30px;
+  color: #5bc0de;
+}
+#footer1-1v P {
+  text-align: center;
 }
 
 
@@ -84,12 +86,13 @@
 #ext_menu-v .nav-link SPAN {
   font-size: 18px;
 }
-#footer1-w P {
-  text-align: center;
-}
-#content1-y P {
-  font-size: 22px;
+#content1-1k P {
+  font-size: 25px;
   font-family: 'Oxygen', sans-serif;
+  text-align: center;
+  color: #5bc0de;
+}
+#footer1-1v P {
   text-align: center;
 }
 
@@ -108,12 +111,12 @@
 #ext_menu-z .nav-link SPAN {
   font-size: 18px;
 }
-#footer1-10 P {
-  text-align: center;
-}
 #form2-19 .btn {
   font-size: 22px;
   font-family: 'Oswald', sans-serif;
+}
+#footer1-1v P {
+  text-align: center;
 }
 
 
@@ -130,7 +133,10 @@
 #ext_menu-11 .nav-link SPAN {
   font-size: 18px;
 }
-#footer1-12 P {
+#form1-1a .mbr-section-title {
+  color: #ffffff;
+}
+#footer1-1v P {
   text-align: center;
 }
 
@@ -148,11 +154,14 @@
 #ext_menu-13 .nav-link SPAN {
   font-size: 18px;
 }
-#footer1-14 P {
+#footer1-1v P {
   text-align: center;
 }
 
 
+#msg-box2-22 H2 {
+  text-align: right;
+}
 #ext_menu-15 .navbar-toggler {
   color: #000;
 }
@@ -166,7 +175,7 @@
 #ext_menu-15 .nav-link SPAN {
   font-size: 18px;
 }
-#footer1-16 P {
+#footer1-1v P {
   text-align: center;
 }
 
@@ -191,6 +200,31 @@
 #ext_menu-17 .nav-link SPAN {
   font-size: 18px;
 }
-#footer1-18 P {
+#footer1-1v P {
+  text-align: center;
+}
+
+
+
+#ext_menu-1p .navbar-toggler {
+  color: #000;
+}
+#ext_menu-1p .navbar-brand {
+  font-family: 'Indie Flower', cursive;
+  font-size: 23px;
+}
+#ext_menu-1p .nav-link {
+  font-family: 'Indie Flower', cursive;
+}
+#ext_menu-1p .nav-link SPAN {
+  font-size: 18px;
+}
+#content5-1u .mbr-section-title {
+  font-family: 'Oxygen', sans-serif;
+}
+#content5-1u P {
+  font-size: 30px;
+}
+#footer1-1v P {
   text-align: center;
 }
