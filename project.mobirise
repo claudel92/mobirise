@@ -16,12 +16,12 @@
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
     "favicon": "",
-    "noImageResize": "",
+    "noImageResize": "true",
     "google-analytics": "",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "cookiesAlert": "",
+    "gdpr": "",
     "sitemapSwitcher": "on",
-    "uniqCompNum": 75,
+    "uniqCompNum": 76,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
   },
@@ -45,15 +45,15 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#fff",
-            "hamburgerColor": "#000"
+            "color": "#fff8e0",
+            "hamburgerColor": "#000000"
           },
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page3.html#form2-19\">s'inscrire</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page5.html#testimonials1-1g\">Ma publicité</a></li>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
-          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html#content5-x\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(2, 117, 216);\"></span>Qui sommes nous ?</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(92, 184, 92);\"></span>&nbsp; Comment ça marche ?</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(92, 184, 92);\"></span>Comment ça marche ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html#content5-x\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(2, 117, 216);\"></span>Qui sommes nous ?</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -78,19 +78,22 @@
           "_anchor": "ext_menu-0",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#000"
+              "color": "#000000"
             },
             ".navbar-brand": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "23px"
+              "font-size": "15px"
             },
             ".nav-link": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             },
             ".nav-link SPAN": {
-              "font-size": "18px"
+              "font-size": "12px"
+            },
+            ".navbar-nav .btn": {
+              "font-size": "12px"
             }
           }
         },
@@ -100,7 +103,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": true,
+            "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg",
@@ -111,9 +114,9 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#d5f4f0",
-            "overlayOpacity": "0.8"
+            "overlay": true,
+            "overlayColor": "#fff8e0",
+            "overlayOpacity": "0.3"
           },
           "title": "<i><b>LeBricaBrac</b></i>",
           "text": "<i>La publicité plus simplement</i>",
@@ -128,7 +131,7 @@
             "B": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "60px",
+              "font-size": "48px",
               "color": "#000000"
             },
             "H1": {
@@ -145,15 +148,15 @@
               "text-align": "center"
             },
             "I": {
-              "font-size": "25px",
-              "color": "#000000"
+              "font-size": "20px",
+              "color": "#0275d8"
             }
           }
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
@@ -193,15 +196,15 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#fff",
-            "hamburgerColor": "#000"
+            "color": "#fff8e0",
+            "hamburgerColor": "#000000"
           },
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page3.html#form2-19\">s'inscrire</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page5.html#testimonials1-1g\">Ma publicité</a></li>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
-          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html#content5-x\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(2, 117, 216);\"></span>Qui sommes nous ?</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(92, 184, 92);\"></span>&nbsp; Comment ça marche ?</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(92, 184, 92);\"></span>Comment ça marche ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html#content5-x\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(2, 117, 216);\"></span>Qui sommes nous ?</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -225,19 +228,22 @@
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#000"
+              "color": "#000000"
             },
             ".navbar-brand": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "23px"
+              "font-size": "15px"
             },
             ".nav-link": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             },
             ".nav-link SPAN": {
-              "font-size": "18px"
+              "font-size": "12px"
+            },
+            ".navbar-nav .btn": {
+              "font-size": "12px"
             }
           },
           "_anchor": "ext_menu-t"
@@ -272,10 +278,11 @@
             ".mbr-section-title": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "color": "#5bc0de"
+              "color": "#5bc0de",
+              "font-size": "22px"
             },
             "P": {
-              "font-size": "30px",
+              "font-size": "17px",
               "color": "#5bc0de"
             }
           },
@@ -283,8 +290,8 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
@@ -309,8 +316,8 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
@@ -331,7 +338,7 @@
               "name": "responsive",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
+              "size": "84",
               "color": "#5bc0de",
               "active": true
             }
@@ -344,7 +351,12 @@
             "Thème"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-1y"
+          "_anchor": "contacts1-1y",
+          "_styles": {
+            "P": {
+              "font-size": "12px"
+            }
+          }
         }
       ]
     },
@@ -363,15 +375,15 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#fff",
-            "hamburgerColor": "#000"
+            "color": "#fff8e0",
+            "hamburgerColor": "#000000"
           },
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page3.html#form2-19\">s'inscrire</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page5.html#testimonials1-1g\">Ma publicité</a></li>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
-          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html#content5-x\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(2, 117, 216);\"></span>Qui sommes nous ?</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(92, 184, 92);\"></span>&nbsp; Comment ça marche ?</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(92, 184, 92);\"></span>Comment ça marche ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html#content5-x\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(2, 117, 216);\"></span>Qui sommes nous ?</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -395,25 +407,28 @@
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#000"
+              "color": "#000000"
             },
             ".navbar-brand": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "23px"
+              "font-size": "15px"
             },
             ".nav-link": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             },
             ".nav-link SPAN": {
-              "font-size": "18px"
+              "font-size": "12px"
+            },
+            ".navbar-nav .btn": {
+              "font-size": "12px"
             }
           },
           "_anchor": "ext_menu-v"
         },
         {
-          "text": "<p><b><i>Comment ça marche ?</i></b></p><p><i>* Inscrivez vous en entrant les informations nécéssaires pour commencer.</i></p><p><i>*vous désirez consulter nos publicités ?, &nbsp;il vous suffit juste de cliquer sur le boutton \" Nos publicités\".</i></p><p><i>* si vous souhaitez publier une publicité , cliquer sur le bouton \" publier \" et laisser vous guider.</i></p><p><i>*si vous désirez bénéficier des services de nos graphistes chevronnés pour des conceptions d'affiches publicitaires, cliquer sur \" Ma publicité\" et laisser vous guider.</i></p>",
+          "text": "<p><b><i>Comment ça marche ?</i></b></p><p><i>* Inscrivez vous en entrant les informations nécéssaires pour commencer.</i></p><p><i><br></i></p><p><i>*vous désirez consulter nos publicités ?, &nbsp;il vous suffit juste de cliquer sur le boutton \" Nos publicités\".</i></p><p><i><br></i></p><p><i>* si vous souhaitez publier une publicité , cliquer sur le bouton \" publier \" et laisser vous guider.</i></p><p><i><br></i></p><p><i>*si vous désirez bénéficier des services de nos graphistes chevronnés pour des conceptions d'affiches publicitaires, cliquer sur \" Ma publicité\" et laisser vous guider.</i></p>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
@@ -421,7 +436,7 @@
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-size": "25px",
+              "font-size": "17px",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "text-align": "center",
@@ -432,8 +447,8 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
@@ -458,8 +473,8 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
@@ -480,7 +495,7 @@
               "name": "responsive",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
+              "size": "84",
               "color": "#5bc0de",
               "active": true
             }
@@ -493,7 +508,12 @@
             "Thème"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-1l"
+          "_anchor": "contacts1-1l",
+          "_styles": {
+            "P": {
+              "font-size": "12px"
+            }
+          }
         }
       ]
     },
@@ -512,15 +532,15 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#fff",
-            "hamburgerColor": "#000"
+            "color": "#fff8e0",
+            "hamburgerColor": "#000000"
           },
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page3.html#form2-19\">s'inscrire</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page5.html#testimonials1-1g\">Ma publicité</a></li>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
-          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html#content5-x\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(2, 117, 216);\"></span>Qui sommes nous ?</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(92, 184, 92);\"></span>&nbsp; Comment ça marche ?</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(92, 184, 92);\"></span>Comment ça marche ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html#content5-x\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(2, 117, 216);\"></span>Qui sommes nous ?</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -544,19 +564,22 @@
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#000"
+              "color": "#000000"
             },
             ".navbar-brand": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "23px"
+              "font-size": "15px"
             },
             ".nav-link": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             },
             ".nav-link SPAN": {
-              "font-size": "18px"
+              "font-size": "12px"
+            },
+            ".navbar-nav .btn": {
+              "font-size": "12px"
             }
           },
           "_anchor": "ext_menu-z"
@@ -564,8 +587,8 @@
         {
           "_params": {
             "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-373076-2000x1333.jpg",
             "parallax": true,
@@ -575,7 +598,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "inscrivez vous pour commencer !",
+          "title": "<b>inscrivez vous pour commencer !</b>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">s'inscrire</a>",
           "form": {
             "action": "behanzinhelios2017@gmail.com",
@@ -599,39 +622,20 @@
               "font-size": "22px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "22px"
+            },
+            ".mbr-section-title B": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "form2-19"
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
-            "counters": true,
-            "facebook": true,
-            "twitter": true,
-            "google": true
-          },
-          "text": "Partagez cette page",
-          "alias": "purity/components",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-1m"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
@@ -652,7 +656,7 @@
               "name": "responsive",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
+              "size": "84",
               "color": "#5bc0de",
               "active": true
             }
@@ -665,12 +669,17 @@
             "Thème"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-1l"
+          "_anchor": "contacts1-1l",
+          "_styles": {
+            "P": {
+              "font-size": "12px"
+            }
+          }
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
@@ -710,15 +719,15 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#fff",
-            "hamburgerColor": "#000"
+            "color": "#fff8e0",
+            "hamburgerColor": "#000000"
           },
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page3.html#form2-19\">s'inscrire</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page5.html#testimonials1-1g\">Ma publicité</a></li>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
-          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html#content5-x\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(2, 117, 216);\"></span>Qui sommes nous ?</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(92, 184, 92);\"></span>&nbsp; Comment ça marche ?</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(92, 184, 92);\"></span>Comment ça marche ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html#content5-x\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(2, 117, 216);\"></span>Qui sommes nous ?</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -742,19 +751,22 @@
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#000"
+              "color": "#000000"
             },
             ".navbar-brand": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "23px"
+              "font-size": "15px"
             },
             ".nav-link": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             },
             ".nav-link SPAN": {
-              "font-size": "18px"
+              "font-size": "12px"
+            },
+            ".navbar-nav .btn": {
+              "font-size": "12px"
             }
           },
           "_anchor": "ext_menu-11"
@@ -773,7 +785,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Publier",
+          "title": "<b>Publier</b>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Publier</a>",
           "form": {
             "action": "lebricabrac017@gmail.com",
@@ -810,23 +822,24 @@
           "_anchor": "form1-1a",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "22px"
             }
           }
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/pexels-photo-872958-2000x1224.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
             "overlay": false,
-            "overlayColor": "#222",
+            "overlayColor": "#d3dae7",
             "overlayOpacity": 0.5,
-            "counters": true,
+            "counters": false,
             "facebook": true,
             "twitter": true,
             "google": true
@@ -837,12 +850,17 @@
             "Thème"
           ],
           "_name": "social-buttons1",
-          "_anchor": "social-buttons1-1n"
+          "_anchor": "social-buttons1-1n",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "22px"
+            }
+          }
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
@@ -930,7 +948,12 @@
               "authorBio": "",
               "text": "<i>Adobe Photoshop/ MArketing Digital / CEO &amp; Founder à AWAD Technology and consultancy</i>"
             }
-          ]
+          ],
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "22px"
+            }
+          }
         },
         {
           "_inherit": "menu",
@@ -941,15 +964,15 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#fff",
-            "hamburgerColor": "#000"
+            "color": "#fff8e0",
+            "hamburgerColor": "#000000"
           },
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page3.html#form2-19\">s'inscrire</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page5.html#testimonials1-1g\">Ma publicité</a></li>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
-          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html#content5-x\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(2, 117, 216);\"></span>Qui sommes nous ?</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(92, 184, 92);\"></span>&nbsp; Comment ça marche ?</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(92, 184, 92);\"></span>Comment ça marche ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html#content5-x\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(2, 117, 216);\"></span>Qui sommes nous ?</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -973,19 +996,22 @@
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#000"
+              "color": "#000000"
             },
             ".navbar-brand": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "23px"
+              "font-size": "15px"
             },
             ".nav-link": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             },
             ".nav-link SPAN": {
-              "font-size": "18px"
+              "font-size": "12px"
+            },
+            ".navbar-nav .btn": {
+              "font-size": "12px"
             }
           },
           "_anchor": "ext_menu-13"
@@ -1001,8 +1027,8 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
@@ -1023,7 +1049,7 @@
               "name": "responsive",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
+              "size": "84",
               "color": "#5bc0de",
               "active": true
             }
@@ -1036,12 +1062,17 @@
             "Thème"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-1l"
+          "_anchor": "contacts1-1l",
+          "_styles": {
+            "P": {
+              "font-size": "12px"
+            }
+          }
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
@@ -1118,15 +1149,15 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#fff",
-            "hamburgerColor": "#000"
+            "color": "#fff8e0",
+            "hamburgerColor": "#000000"
           },
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page3.html#form2-19\">s'inscrire</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page5.html#testimonials1-1g\">Ma publicité</a></li>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
-          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html#content5-x\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(2, 117, 216);\"></span>Qui sommes nous ?</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(92, 184, 92);\"></span>&nbsp; Comment ça marche ?</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(92, 184, 92);\"></span>Comment ça marche ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html#content5-x\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(2, 117, 216);\"></span>Qui sommes nous ?</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -1150,19 +1181,22 @@
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#000"
+              "color": "#000000"
             },
             ".navbar-brand": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "23px"
+              "font-size": "15px"
             },
             ".nav-link": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             },
             ".nav-link SPAN": {
-              "font-size": "18px"
+              "font-size": "12px"
+            },
+            ".navbar-nav .btn": {
+              "font-size": "12px"
             }
           },
           "_anchor": "ext_menu-15"
@@ -1235,8 +1269,8 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
@@ -1257,7 +1291,7 @@
               "name": "responsive",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
+              "size": "84",
               "color": "#5bc0de",
               "active": true
             }
@@ -1270,12 +1304,17 @@
             "Thème"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-1l"
+          "_anchor": "contacts1-1l",
+          "_styles": {
+            "P": {
+              "font-size": "12px"
+            }
+          }
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
@@ -1359,7 +1398,7 @@
             ".mbr-section-title": {
               "color": "#0275d8",
               "text-align": "right",
-              "font-size": "48px",
+              "font-size": "22px",
               "font-family": "'Yanone Kaffeesatz', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
             }
@@ -1374,15 +1413,15 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#fff",
-            "hamburgerColor": "#000"
+            "color": "#fff8e0",
+            "hamburgerColor": "#000000"
           },
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page3.html#form2-19\">s'inscrire</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page5.html#testimonials1-1g\">Ma publicité</a></li>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
-          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html#content5-x\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(2, 117, 216);\"></span>Qui sommes nous ?</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(92, 184, 92);\"></span>&nbsp; Comment ça marche ?</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(92, 184, 92);\"></span>Comment ça marche ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html#content5-x\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(2, 117, 216);\"></span>Qui sommes nous ?</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -1406,19 +1445,22 @@
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#000"
+              "color": "#000000"
             },
             ".navbar-brand": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "23px"
+              "font-size": "15px"
             },
             ".nav-link": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             },
             ".nav-link SPAN": {
-              "font-size": "18px"
+              "font-size": "12px"
+            },
+            ".navbar-nav .btn": {
+              "font-size": "12px"
             }
           },
           "_anchor": "ext_menu-17"
@@ -1446,12 +1488,17 @@
             "Thème"
           ],
           "_name": "social-buttons1",
-          "_anchor": "social-buttons1-1f"
+          "_anchor": "social-buttons1-1f",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "22px"
+            }
+          }
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
@@ -1491,15 +1538,15 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#fff",
-            "hamburgerColor": "#000"
+            "color": "#fff8e0",
+            "hamburgerColor": "#000000"
           },
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page3.html#form2-19\">s'inscrire</a></li>   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"page5.html#testimonials1-1g\">Ma publicité</a></li>",
           "alias": "purity/components",
           "_tags": [
             "Thème"
           ],
-          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html#content5-x\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(2, 117, 216);\"></span>Qui sommes nous ?</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(92, 184, 92);\"></span>&nbsp; Comment ça marche ?</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html#content1-y\"><span class=\"mbri-idea mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(92, 184, 92);\"></span>Comment ça marche ?</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html#content5-x\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(2, 117, 216);\"></span>Qui sommes nous ?</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -1523,19 +1570,22 @@
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#000"
+              "color": "#000000"
             },
             ".navbar-brand": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "23px"
+              "font-size": "15px"
             },
             ".nav-link": {
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             },
             ".nav-link SPAN": {
-              "font-size": "18px"
+              "font-size": "12px"
+            },
+            ".navbar-nav .btn": {
+              "font-size": "12px"
             }
           },
           "_anchor": "ext_menu-1p"
@@ -1569,18 +1619,22 @@
           "_styles": {
             ".mbr-section-title": {
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "22px"
             },
             "P": {
               "font-size": "30px"
+            },
+            "DIV": {
+              "font-size": "17px"
             }
           },
           "_anchor": "content5-1u"
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
@@ -1601,7 +1655,7 @@
               "name": "responsive",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
+              "size": "84",
               "color": "#5bc0de",
               "active": true
             }
@@ -1614,12 +1668,17 @@
             "Thème"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-1s"
+          "_anchor": "contacts1-1s",
+          "_styles": {
+            "P": {
+              "font-size": "12px"
+            }
+          }
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
