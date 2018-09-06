@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "lebricabrac final",
-    "currentPage": "index.html",
+    "currentPage": "page8.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -601,7 +601,7 @@
           "title": "<b>inscrivez vous pour commencer !</b>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">s'inscrire</a>",
           "form": {
-            "action": "behanzinhelios2017@gmail.com",
+            "action": "lebricabrac017@gmail.com",
             "alerts": {
               "success": "Le BricaBrac vous souhaite la bienvenue !"
             },
